@@ -3,7 +3,7 @@
 ########################################################
 ##              Script Description                    ##
 ##                                                    ##
-##      Script developed for rename files with        ##
+##      Script developed to rename files with         ##
 ##		a name list within a files					  ##
 ##      Developer:      Junior de Oliveira            ##
 ##      Date:           11/04/2018                    ##
