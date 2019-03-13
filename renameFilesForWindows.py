@@ -4,6 +4,8 @@ from tkinter import ttk
 import os
 import sys
 
+#pyinstaller --onefile --windowed renameFilesForWindows.py
+
 fileList = [] # sera inserido os nomes dos arquivos em uma lista
 
 indexList = 0
