@@ -4,7 +4,7 @@ from tkinter import ttk
 import os
 import sys
 
-fileList = [] # sera inserido os nomes dos arquivos em uma lista
+fileList = [] ## sera inserido os nomes dos arquivos em uma lista
 
 indexList = 0
 global contentFiles
