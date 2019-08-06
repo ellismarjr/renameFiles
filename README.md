@@ -1,6 +1,6 @@
 ## renameFiles
 
-Script desenvolvido em Python para renomear arquivos através de uma lista pré determinada.
+Script desenvolvido em Python3 para renomear arquivos através de uma lista pré determinada.
 
 ## Modo de Usar
 
